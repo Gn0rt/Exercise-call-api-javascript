@@ -23,4 +23,5 @@
 - Github: https://github.com/lukePeavey/quotable?tab=readme-ov-file#get-random-quotes
 - Thành quả: lấy được nội dung quote và tên tác giả sau đó hiển thị ra màn hình. Khi lần đầu vào thì cũng sẽ hiển thị quote thay vì không hiển thị gì
 - Giao diện
+
 ![Giao diện chính](ImageProject/RandomQuote/randomquote.png)
