@@ -25,3 +25,8 @@
 - Giao diện
 
 ![Giao diện chính](ImageProject/RandomQuote/randomquote.png)
+
+## 4. Country Guide
+- Get API: https://restcountries.com/
+- Thành quả: Lấy được dữ liệu của các nước được nhập vào ô input, hiển thị thông báo nếu không nhập hay nhập sai.
+- Giao diện
