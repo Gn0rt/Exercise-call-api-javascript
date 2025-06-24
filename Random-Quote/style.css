@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: #f43543;
+}
+
+.wrapper {
+    width: 400px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
+.container {
+    width: 100%;
+    background-color: #f43543;
+    padding: 50px 40px;
+    box-shadow: 0 20px 65px rgba(87, 11, 16, 0.5);
+    position: relative;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container::after {
+    content: "";
+    position: absolute;
+    width: 80%;
+    height: 120%;
+    background-color: #fff;
+    z-index: -1;
+    top: -10%;
+    left: 10%;
+}
+
+
+
+.container p {
+    color: #fdd8d8;
+    line-height: 2;
+    font-size: 18px;
+    opacity: 0;
+}
+
+.container h3 {
+    color: #fff;
+    margin: 20px 0 60px 0;
+    font-weight: 600;
+    text-transform: capitalize;
+    opacity: 0;
+}
+
+.container p.fade,
+.container h3.fade {
+    opacity: 1;
+    transition: opacity 1s;
+}
+
+.container button {
+    background-color: #fff;
+    border: none;
+    padding: 15px 45px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #f43543;
+    cursor: pointer;
+}
