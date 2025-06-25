@@ -30,3 +30,6 @@
 - Get API: https://restcountries.com/
 - Thành quả: Lấy được dữ liệu của các nước được nhập vào ô input, hiển thị thông báo nếu không nhập hay nhập sai.
 - Giao diện
+![Giao diện ban đầu](ImageProject/CountryGuide/country1.png)
+- Kết quả
+![Giao diện kết quả](ImageProject/CountryGuide/country2.png)
