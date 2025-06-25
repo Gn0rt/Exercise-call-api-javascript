@@ -21,7 +21,7 @@
 ## 3. Random Quote
 - Get API: https://api.quotable.io/random
 - Github: https://github.com/lukePeavey/quotable?tab=readme-ov-file#get-random-quotes
-- Thành quả: lấy được nội dung quote và tên tác giả sau đó hiển thị ra màn hình. Khi lần đầu vào thì cũng sẽ hiển thị quote thay vì không hiển thị gì
+- Thành quả: lấy được nội dung quote và tên tác giả sau đó hiển thị ra màn hình. Khi lần đầu vào thì cũng sẽ hiển thị quote thay vì không hiển thị.
 - Giao diện
 
 ![Giao diện chính](ImageProject/RandomQuote/randomquote.png)
@@ -33,3 +33,10 @@
 ![Giao diện ban đầu](ImageProject/CountryGuide/country1.png)
 - Kết quả
 ![Giao diện kết quả](ImageProject/CountryGuide/country2.png)
+
+## 5. Pokemon Card
+- Get API: https://pokeapi.co/api/v2/pokemon/ (website: https://pokeapi.co/)
+- Thành quả: Lấy được thông tin, thuộc tính của pokemon và hiển thị ra màn hình. Khi lần đầu vào hay load lại trang thì sẽ hiển thị pokemon thay vì không hiển thị.
+- Giao diện
+
+![Giao diện chính](ImageProject/PokemonCard/pokecard.png)
