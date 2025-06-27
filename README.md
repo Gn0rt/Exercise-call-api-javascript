@@ -39,4 +39,12 @@
 - Thành quả: Lấy được thông tin, thuộc tính của pokemon và hiển thị ra màn hình. Khi lần đầu vào hay load lại trang thì sẽ hiển thị pokemon thay vì không hiển thị.
 - Giao diện
 
-![Giao diện chính](ImageProject/PokemonCard/pokecard.png)
+![Giao diện chính](ImageProject/PokemonCard/pokecard.png) 
+
+## 6. Recipe App
+- Get API: https://www.themealdb.com/api.php
+- Thành quả: Lấy được dữ liệu từ người dùng, kiểm tra và trả về kết quả công thức của món ăn.
+- Giao diện
+
+<img src="ImageProject/RecipeApp/recipe1.png" width="49%">
+<img src="ImageProject/RecipeApp/recipe2.png" width="49%">
