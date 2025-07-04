@@ -56,3 +56,11 @@
 
 ![Giao diện chính](ImageProject/NumberTrivia/number1.png)
 
+## 8. Weather App
+- Get API: https://openweathermap.org/
+- Thành quả: lấy được dữ liệu thời tiết của thành phố nhập từ bàn phím
+- Giao diện
+
+![Giao diện chính](ImageProject/WeatherApp/weather.png)
+
+
