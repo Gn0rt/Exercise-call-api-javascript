@@ -48,3 +48,10 @@
 
 <img src="ImageProject/RecipeApp/recipe1.png" width="49%">
 <img src="ImageProject/RecipeApp/recipe2.png" width="49%">
+
+## 7. Number Trivia
+- Get API: http://numbersapi.com/
+- Thành quả: lấy được dữ liệu từ bàn phím (hoặc random) để lấy được nội dung (fact number)
+- Giao diện
+![Giao diện chính](ImageProject/NumberTrivia/number1.png)
+
